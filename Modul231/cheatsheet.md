@@ -14,3 +14,12 @@ Passieren für alle Logins die ich mache bei Spielen Mai, HPs, serverseitig und 
 
 Beispiele für Autorisierungen
 Bei allen aufgezählten Logins nachdem man erfolgreich authentifiziert wurde.
+
+Authentisierung:
+Einloggen/Seine identität beweisen
+
+Authentifizierung:
+authentizität bestätigen nutzername/passwort check, allenfals 2faktor code / FaceID / Fingerprint prüfen
+
+Autorisierung:
+Zugriff nach erfolgreicher authentifizierung freigeben.
