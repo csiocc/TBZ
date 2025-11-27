@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"TBZ.Java.KN11","l":"CodeKonventionenDemo"},{"p":"TBZ.Java.KN11","l":"Rechner"}];updateSearchResults();

@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DebugDemo",
+      "request": "launch",
+      "mainClass": "Java.kn12.DebugDemo",
+      "projectName": "m319"
+    }
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "Java.kn12.BubbleSort",
+      "projectName": "m319"
+    }
+  ]
+}
