@@ -12,6 +12,7 @@ Systeme und Daten müssen für authorisierte Benutzer jederzeit innert angemesse
 
 
 ## Dev/Testing ##
+
 # Vertraulichkeit:
 -Sensible Daten(Passwörter, Kundendaten, persönliche Infos) nur verschlüsselt speichern/übertragen. z.b HTTPS
 -Mit Penetrationstests versuchen auf unbefugte Daten zuzugreifen z.b durch SQL injection oder Directory Traversal.
@@ -29,6 +30,7 @@ Systeme und Daten müssen für authorisierte Benutzer jederzeit innert angemesse
 
 
 ## Buchhaltung ##
+
 # Vertraulichkeit:
 -Sensible Finanzdaten nur an Personen/Systemen zugänglich machen die diese zur erledigung ihrer aufgabe wirklich benötigen
 -Lohndaten darf nur der entsprechende Mitarbeiter/Personalabteilung/GL erhalten sonst niemand
@@ -37,7 +39,6 @@ Systeme und Daten müssen für authorisierte Benutzer jederzeit innert angemesse
 -Rollenbasierte zugriffskontrolle
 -Verschlüsselung von sensiblen Daten
 -Zur übertragung nur verschlüsselte dienste nutzen wie z.b HTTPS
-
 # Integriät:
 -Buchungen, Finanzdaten usw müssen korrekt vollständig und manipulationssicher sein.
 -Änderungen müssen autorisiert sein und vollständig nachvollziehbar(logs)
@@ -53,6 +54,7 @@ Systeme und Daten müssen für authorisierte Benutzer jederzeit innert angemesse
 -Historie muss jederzeit verfügbar und einsehbar sein für kontrollen.
 
 ## Server/Netzwerk ##
+
 # Vertraulichkeit:
 -Mögliche Bedrohungen: Datenverkehr abhören / mithören. Serverdaten auslesen(Passwörter, Configdaten usw)
 -Sicherstellen das per Netzwerk/Internet übertragene oder auf Server gespeicherte Daten nur von autorisierten Benutzern/Systemen eingesehen werden können.
