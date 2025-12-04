@@ -44,10 +44,10 @@
 
 
 ## 3. Mögliche Finanzielle Konsequenzen:
-### - Bussgelder und Strafen
-### - Schadenersatzforderungen
-### - Rechtsstreits kosten
-### - Audit/Zertifizierungsverlust -> Folgekosten
-### - Reputationsschäden
-### - Interne Kosten(Aufwände)
-### - Behördenauflagen wie schärfere Kontrollen(Mehraufwand) oder Aufsichtsmassnahmen
+ - Bussgelder und Strafen
+ - Schadenersatzforderungen
+ - Rechtsstreits kosten
+ - Audit/Zertifizierungsverlust -> Folgekosten
+ - Reputationsschäden
+ - Interne Kosten(Aufwände)
+ - Behördenauflagen wie schärfere Kontrollen(Mehraufwand) oder Aufsichtsmassnahmen

@@ -18,3 +18,38 @@ Verfügbarkeit Zugriff auf die Systeme und Daten jederzeit möglich z.b kann ich
 
 Klassifizierung der Daten
  öffentlich, intern, eingeschränkt und vertraulich
+Datentypen:
+
+
+IT Sicherheitskonzept
+IT-Schutzkonzept – knappe Stichwort-Zusammenfassung (Cheatsheet)
+
+Geltungsbereich
+– Welche Systeme/Standorte?
+– Verantwortlichkeiten festlegen.
+
+Strukturanalyse
+– Systeme, Daten, Prozesse erfassen.
+– Schutzbedarf (C/I/A) bestimmen. CIA = Vertraulichkeit, Integrität, Verfügbarkeit
+– Speicherorte + Schnittstellen dokumentieren.
+
+Modellierungsphase
+– Bedrohungen identifizieren (intern/extern).
+– Schwachstellen erfassen.
+– Risiken bewerten (Eintritt × Schaden).
+– Zielarchitektur ableiten.
+
+Maßnahmenplanung
+– Technische Maßnahmen: Härtung, FW, MFA, Verschlüsselung, Backup/Restore, Monitoring.
+– Organisatorische Maßnahmen: Rollen, Prozesse, Richtlinien.
+– Physische Maßnahmen: Zutritt, Klima, Strom, Brandschutz.
+
+Umsetzung
+– Maßnahmen priorisieren.
+– Verantwortliche + Termine definieren.
+– Dokumentation & Nachweise.
+
+Wirksamkeitskontrolle
+– Regelmäßige Audits, Pen-Tests.
+– Log-Analyse, SIEM, Incident Handling.
+– Kontinuierliche Verbesserung.
