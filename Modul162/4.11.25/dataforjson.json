@@ -1,0 +1,31 @@
+{
+  "personen": [
+    {
+      "vorname": "Anna",
+      "nachname": "Meier",
+      "postleitzahl": "8001",
+      "ort": "Zürich",
+      "telefonnummer": "+41 44 123 45 67",
+      "geburtsdatum": "12.04.1990",
+      "koerpergroesse_cm": 168
+    },
+    {
+      "vorname": "Lukas",
+      "nachname": "Keller",
+      "postleitzahl": "3001",
+      "ort": "Bern",
+      "telefonnummer": "+41 31 987 65 43",
+      "geburtsdatum": "30.09.1985",
+      "koerpergroesse_cm": 182
+    },
+    {
+      "vorname": "Sofia",
+      "nachname": "Huber",
+      "postleitzahl": "6003",
+      "ort": "Luzern",
+      "telefonnummer": "+41 41 555 33 22",
+      "geburtsdatum": "25.01.1998",
+      "koerpergroesse_cm": 171
+    }
+  ]
+}
