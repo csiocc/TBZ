@@ -15,3 +15,6 @@ Integrität
 Die Daten sind konsistent und werden nicht ungewollt oder ungeloggt verändert.
 
 Verfügbarkeit Zugriff auf die Systeme und Daten jederzeit möglich z.b kann ich immer Geld beziehen oder meinen Kontostand anschauen.
+
+Klassifizierung der Daten
+ öffentlich, intern, eingeschränkt und vertraulich
